@@ -13,8 +13,8 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = ""
+subtitle = "SE college student. Cat parent. Professional overthinker. Trying to survive college and my IDE at the same time."
 
 [sidebar.avatar]
 enabled = true
@@ -109,7 +109,7 @@ serverURL = ""
 lang = ""
 visitor = ""
 avatar = ""
-emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"]
+emoji = []
 requiredMeta = ["name", "email", "url"]
 placeholder = ""
 
