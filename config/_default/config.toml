@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "melsblog.online"
+baseurl = "melblogs.online"
 languageCode = "en-us"
 title = "Mel's Blog"
 
