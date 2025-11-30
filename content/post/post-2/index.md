@@ -1,7 +1,7 @@
 ---
-title: First Post
-description: This is my first official blog post!
-slug: second-post
+title: Life, Media, and What Matters
+description: Today, I talk about my daily life, a Palestinian movie, and the MMIW crisis.
+slug: life-media-and-what-matters
 date: 2025-11-29 00:00:00+0000
 image: cover3.jpg
 categories:
