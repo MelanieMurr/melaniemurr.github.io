@@ -38,4 +38,4 @@ So now, not only are Native Americans and Native Alaskans still being politicall
 We should all be angry about this. Goodnight.
 
 
-[^1] Cover Photo owned by Adobe Stock Images
+<sub>Cover Photo owned by <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dgradient%2Bcover&ved=0CBoQjhxqGAoTCKi3trzxmJEDFQAAAAAdAAAAABDiAg&opi=89978449">Adobe Stock Images</a></sub>
