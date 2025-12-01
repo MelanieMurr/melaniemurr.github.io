@@ -36,3 +36,6 @@ Also, in American news, [the Trump admin removed an important report on MMIW](ht
 So now, not only are Native Americans and Native Alaskans still being politically abused and ignored, but they're quickly being erased in a violent way. This will allow *even more* Indigenous women and children to go missing and/or turn up murdered, and no one will be forced to care, again. 
 
 We should all be angry about this. Goodnight.
+
+
+[^1] Cover Photo owned by Adobe Stock Images
