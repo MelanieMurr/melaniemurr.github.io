@@ -3,7 +3,7 @@ title: A Note For Our Health
 description: It's important to make your health your first priority
 slug: a-note-for-our-health
 date: 2025-12-29 00:00:00+0000
-image: cover3.jpg
+image: cover4.jpg
 categories:
     - Health & Wellness
     - Mental Health
