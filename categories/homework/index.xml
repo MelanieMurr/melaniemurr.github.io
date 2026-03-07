@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homework on Mel's Blog</title><link>https://melblogs.online/categories/homework/</link><description>Recent content in Homework on Mel's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://melblogs.online/categories/homework/index.xml" rel="self" type="application/rss+xml"/><item><title>Multimedia Rhetoric Assignment</title><link>https://melblogs.online/p/multimedia-rhetoric-assignment/</link><pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate><guid>https://melblogs.online/p/multimedia-rhetoric-assignment/</guid><description>&lt;img src="https://melblogs.online/p/multimedia-rhetoric-assignment/cover.jpg" alt="Featured image of post Multimedia Rhetoric Assignment" /&gt;&lt;h1 id="rhetoric-on-melanies-professional-experience-in-software-engineering"&gt;Rhetoric On Melanie&amp;rsquo;s Professional Experience in Software Engineering
+&lt;/h1&gt;&lt;h2 id="my-projects"&gt;My Projects
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Lizard Clicker app&lt;/li&gt;
+&lt;li&gt;Card Memory Game&lt;/li&gt;
+&lt;li&gt;Soapbox.lol&lt;/li&gt;
+&lt;li&gt;Letterboxe&lt;/li&gt;
+&lt;li&gt;WeatherWidget&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="my-professional-experience"&gt;My Professional Experience
+&lt;/h2&gt;&lt;p&gt;All of my projects I have worked on with a team, except for the WeatherWidget application. However, here I will talk about my experience working on each project.&lt;/p&gt;
+&lt;h3 id="lizard-clicker"&gt;Lizard Clicker
+&lt;/h3&gt;&lt;p&gt;Have you ever played Cookie Clicker? That&amp;rsquo;s what we based our Lizard App off of. We got the idea from the then-famous movie theator meme, where the lizard is repeatedly clicking on the &amp;ldquo;lizard button&amp;rdquo; (as a way to tell theator-goers to get off their phones). For this application, users would open it and not have to worry about the persistence. They would click on the button a handful of times and unlock new rewards and upgrades for their button. Some upgrades would click the cookie for you (and those upgrades would stack), while others would just make the game easier or more efficient.&lt;/p&gt;
+&lt;h3 id="card-memory-game"&gt;Card Memory Game
+&lt;/h3&gt;&lt;p&gt;This was a game created to be a matching game, where the board was filled with pretty colored tarot cards and you could choose between 3 levels of difficulty. If you have ever played Mahjongg, it&amp;rsquo;s loosely based off of that type of game. All cards are face down, and you choose the x- and y-axis twice, and those targets are the cards that will flip to face-up. If they are not a match, you need to remember what color or tarot design those cards have. You would then choose your next coordinates, hoping to get a match and retaining your memory to the best of your ability!&lt;/p&gt;
+&lt;h3 id="soapboxlol"&gt;Soapbox.lol
+&lt;/h3&gt;&lt;p&gt;Soapbox is a social media platform made with the concept of &amp;ldquo;shower thoughts&amp;rdquo; in mind. You can create an account, log in to your profile, and update your status and create and delete posts! Going to your feed, you can like, unlike, repost, and comment on other users&amp;rsquo; posts. You can also follow other users, and have followers.In the future, my team and I plan on allowing image posting, for users to create and post memes to pair with their &amp;ldquo;shower thoughts&amp;rdquo;, as well as putting profile pictures and banner images to further personalize their profiles.&lt;/p&gt;
+&lt;h3 id="letterboxe"&gt;Letterboxe
+&lt;/h3&gt;&lt;p&gt;Have you ever heard of &amp;ldquo;GoodReads&amp;rdquo;, or Letterbox&amp;rsquo;d? If not, think of a media service where you can create a profile, and this service has a database that holds movies and TV shows (or in GoodReads case, books!) that you can add to specific lists. My team and I created a vague copy of Letterbox&amp;rsquo;d, where you can do exactly as I previously mentioned. The lists you can create and add your media to are Watched, Reviewed, and Watchlist. THe fun part is that you can follow other users, and every user can see everyone else&amp;rsquo;s reviews of the movies and TV shows, and make decisions on what to watch!&lt;/p&gt;
+&lt;h3 id="weatherwidget"&gt;WeatherWidget
+&lt;/h3&gt;&lt;p&gt;The Weather Widget was a web application project using an API from a popular weather organization, Weather.com. This application was my first (albeit small) application made for school. I wrote it using Javascript, HTML, and CSS. You are able to input a location, and the app will tell you the weather, the moon phase, and the temperature for that location. Some students went above and beyond, and added a feature to track multiple locations at once.&lt;/p&gt;
+&lt;h2 id="my-skills"&gt;My Skills
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Object Oriented Programming&lt;/li&gt;
+&lt;li&gt;API (Application Programming Interface) Design&lt;/li&gt;
+&lt;li&gt;Scrum Development&lt;/li&gt;
+&lt;li&gt;REST API (Representational State Transfer Application Programming Interface) Design and Implementation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="software-languages"&gt;Software Languages
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Javascript&lt;/li&gt;
+&lt;li&gt;Typescript&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;C++&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
