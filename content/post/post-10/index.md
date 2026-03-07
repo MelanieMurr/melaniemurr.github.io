@@ -2,7 +2,7 @@
 title: Multimedia Rhetoric Assignment
 description: English 210 Section A
 slug: multimedia-rhetoric-assignment
-date: 2026-01-09 00:00:00+0000
+date: 2026-03-07 00:00:00+0000
 image: cover.jpg
 categories:
     - Homework
